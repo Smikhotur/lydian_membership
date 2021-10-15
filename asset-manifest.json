@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lydian_membership/static/css/main.5824989c.chunk.css",
+    "main.js": "/lydian_membership/static/js/main.b2d9382c.chunk.js",
+    "main.js.map": "/lydian_membership/static/js/main.b2d9382c.chunk.js.map",
+    "runtime-main.js": "/lydian_membership/static/js/runtime-main.5fb9cf98.js",
+    "runtime-main.js.map": "/lydian_membership/static/js/runtime-main.5fb9cf98.js.map",
+    "static/js/2.cc090c4f.chunk.js": "/lydian_membership/static/js/2.cc090c4f.chunk.js",
+    "static/js/2.cc090c4f.chunk.js.map": "/lydian_membership/static/js/2.cc090c4f.chunk.js.map",
+    "static/js/3.11486ce6.chunk.js": "/lydian_membership/static/js/3.11486ce6.chunk.js",
+    "static/js/3.11486ce6.chunk.js.map": "/lydian_membership/static/js/3.11486ce6.chunk.js.map",
+    "index.html": "/lydian_membership/index.html",
+    "static/css/main.5824989c.chunk.css.map": "/lydian_membership/static/css/main.5824989c.chunk.css.map",
+    "static/js/2.cc090c4f.chunk.js.LICENSE.txt": "/lydian_membership/static/js/2.cc090c4f.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/lydian_membership/static/media/lydianback.5bbac8d0.jpg",
+    "static/media/check.73cd7853.svg": "/lydian_membership/static/media/check.73cd7853.svg",
+    "static/media/logo.0c9283c4.svg": "/lydian_membership/static/media/logo.0c9283c4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fb9cf98.js",
+    "static/js/2.cc090c4f.chunk.js",
+    "static/css/main.5824989c.chunk.css",
+    "static/js/main.b2d9382c.chunk.js"
+  ]
+}
